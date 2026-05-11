@@ -14,7 +14,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: [CV_Maartje_van_Wijhe.pdf](https://github.com/user-attachments/files/27599559/CV_Maartje_van_Wijhe.pdf)
+        url: uploads/CV_Maartje_van_Wijhe.pdf
 
       headings:
         about: ''
