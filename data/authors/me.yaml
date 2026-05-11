@@ -15,7 +15,7 @@ status:
   icon: 
 role: 
 bio: |
-I am a PhD Candidate in Applied Economics at Erasmus University Rotterdam. I specialize in applied microeconomics, with a focus on labor, health and family economics. I will be on the 2026-2027 job market.
+  I am a PhD Candidate in Applied Economics at Erasmus University Rotterdam. I specialize in applied microeconomics, with a focus on labor, health and family economics. I will be on the 2026-2027 job market.
 
 affiliations:
   - name: Meta AI
@@ -23,7 +23,7 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:maartje@example.com
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/example
