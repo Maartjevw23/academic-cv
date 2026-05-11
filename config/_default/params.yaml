@@ -20,13 +20,7 @@ hugoblox:
     type: person # person | organization | local_business
     # Short tagline displayed on your site
     tagline: ""
-    # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
     # Social accounts (used for meta tags like Twitter Cards)
-    social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
-
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
   # Color and visual design system
